@@ -1,6 +1,6 @@
 # Guia Do Mochileiro ServiceNow
 
-🎒🗺️ Repósitorio com scripts de exemplo para situações usuais no desenvolvimento de aplicações ServiceNow. 🦈🚀
+🎒🗺️ Repósitorio com scripts de exemplos úteis no desenvolvimento de aplicações ServiceNow. 🦈🚀
 
 Pastas: 
 
