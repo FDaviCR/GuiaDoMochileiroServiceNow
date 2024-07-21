@@ -5,3 +5,4 @@
 Pastas: 
 
 - CRUD (Create, Read, Update, Delete records).
+- Validações de campo.
